@@ -49,4 +49,3 @@ Save your work in a GitHub repository named `Ubuntu_Requests` and submit the rep
 
 ---
 
-Let me know if you'd like a sample `image_fetcher.py` to go with it!
